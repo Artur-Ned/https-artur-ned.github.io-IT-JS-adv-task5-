@@ -1,0 +1,55 @@
+a {
+    margin: 20px;
+    display: block;
+    width: fit-content;
+    font-size: 30px;
+    border: 2px solid blue;
+    background-color: beige;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+}
+
+a:hover {
+    border: none;
+    background-color: blue;
+    color: azure;
+}
+
+.div-text {
+    margin: 20px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    display: block;
+    width: max-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    background-color: bisque;
+}
+
+div.div-text.hidden {
+    display: none;
+    color: brown;
+} 
+
+.btn {
+    margin: 20px;
+    display: block;
+    width: fit-content;
+    font-size: 30px;
+    border: 2px solid blue;
+    background-color: beige;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    border: none;
+    background-color: blue;
+    color: azure;
+
+}
