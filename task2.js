@@ -9,7 +9,7 @@ for (let div of divTextAll) {
     div.addEventListener("click", foo);
     function foo(e) {
         if (e.target.nodeName === "BUTTON") {
-            div.firstChild.textContent = " ";
+            div.remove();
         }
     }
 }
