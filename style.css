@@ -53,3 +53,16 @@ div.div-text.hidden {
     color: azure;
 
 }
+
+.div-task {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.div1-task {
+    background-color: aliceblue;
+    width: 300px;
+    margin-left: 20px;
+    border: 2px solid brown;
+}
