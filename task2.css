@@ -48,3 +48,10 @@ height: 33px;
     border: none;
 
 }
+
+.div1-task {
+    background-color: aliceblue;
+    width: 300px;
+    margin-left: 20px;
+    border: 2px solid brown;
+}
